@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabecalho {
+    background-color: rgb(15, 202, 74);
+    color: rgba(236, 203, 12, 0.952);
+    display: flex;
+}
+
+.cabecalho-nome {
+    color: rgb(236, 203, 12, 0.952);
+    font-weight: 700;
+    font-size: 400%;
+    display: flex;
+}
+
+
+.rodape {
+    background-color: rgb(15, 202, 74);
+    display: flex;
+}
+
+.rodape-nome {
+    display: flex;
+    font-size: 400%;
+    color: rgb(236, 203, 12, 0.952);
+    margin: 50px;
+
+}
