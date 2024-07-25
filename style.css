@@ -32,5 +32,12 @@
 }
 
 .agronegocio {
-    display:flex;
+    width: 50%;
+    margin-left: 50%;
+
+}
+
+.descricao-itexto {
+    margin-right: 50%;
+    text-size-adjust: 50%;
 }
