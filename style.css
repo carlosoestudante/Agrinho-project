@@ -60,9 +60,13 @@
 }
 
 .mais-baixo {
-    margin-bottom: 50%;
+    margin-bottom: 30;
 }
 
 .redesocial {
+    width: 5%;
+}
+
+.redesociali {
     width: 5%;
 }
