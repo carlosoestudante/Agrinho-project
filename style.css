@@ -34,10 +34,27 @@
 .agronegocio {
     width: 50%;
     margin-left: 50%;
-
+    margin-bottom: 15%;
 }
 
 .descricao-itexto {
     margin-right: 50%;
-    text-size-adjust: 50%;
+    font-size: large;
+}
+
+.agronegocioii {
+    margin-left: 50%;
+}
+
+.cabecalho-itenss {
+    font-size: x-large;
+}
+
+.descricaoii {
+    
+}
+
+.descricao-iitexto {
+    font-size: large;
+
 }
