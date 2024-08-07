@@ -51,6 +51,9 @@
 
 .cabecalho-itenss {
     padding: 10px;
+    display: flex;
+    color: white;
+    padding-inline-end: 10%;
 }
 
 .descricaoii {
