@@ -5,41 +5,44 @@
 
 
 .cabecalho {
-    background-color: rgb(15, 202, 74);
-    color: rgba(236, 203, 12, 0.952);
+    background-color: rgb(47, 129, 73);
+    color: #ec9a0cf3;
     display: flex;
+    padding: 10px;
 }
 
 .cabecalho-nome {
-    color: rgb(236, 203, 12, 0.952);
+    color: #ec9a0cf3;
     font-weight: 700;
     font-size: 400%;
     display: flex;
+    padding-bottom: 10px;
 }
 
 
 .rodape {
-    background-color: rgb(15, 202, 74);
+    background-color: rgb(47, 129, 73);
     display: flex;
 }
 
 .rodape-nome {
     display: flex;
-    font-size: 400%;
-    color: rgb(236, 203, 12, 0.952);
     margin: 50px;
+    font-size: larger;
+    color: #ec9a0cf3;
 
 }
 
-.agronegocio {
+.agronegocioi {
     width: 50%;
-    margin-left: 50%;
-    margin-bottom: 15%;
+    margin-left: 20%;
+    padding-bottom: 10%;
 }
 
 .descricao-itexto {
-    margin-right: 50%;
-    font-size: large;
+    margin-leftt: 10%;
+    font-size: x-large;
+    padding-bottom: 5%;
 }
 
 .agronegocioii {
@@ -47,7 +50,7 @@
 }
 
 .cabecalho-itenss {
-    font-size: x-large;
+    padding: 10px;
 }
 
 .descricaoii {
@@ -55,7 +58,7 @@
 }
 
 .descricao-iitexto {
-    font-size: large;
+    font-size: x-large;
 
 }
 
